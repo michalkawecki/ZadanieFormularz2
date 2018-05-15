@@ -1,0 +1,44 @@
+#main {
+    width: 500px;
+    background-color: #236A6D;
+    color: white;
+    padding: 10px;
+}
+
+#main h3 {
+    text-transform: uppercase;
+    color: #FFF72F;
+}
+
+#main h4 {
+    font-style: italic;
+    color: #FFF72F;
+    font-weight: 100;
+    margin: 0px 0px 5px 0px;
+}
+
+#main section {
+    border: 1px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    width: 250px;
+    line-height: 30px;
+    padding: 0px 5px 0px 5px;
+}
+
+#button {
+    text-transform: uppercase;
+    color: white;
+    background-color: #14191A;
+    border: 0px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border: 1px solid;
+    
+}
